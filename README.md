@@ -2,7 +2,7 @@
 
 Este proyecto permite controlar una mano robótica impresa en 3D mediante gestos en tiempo real. Utiliza visión artificial para detectar la posición de los dedos y traduce esos movimientos en comandos para 5 servomotores controlados por un ESP32.
 
-[IMAGE_PLACEHOLDER: Inserta aquí la imagen de tu mano robótica o del detector de Mediapipe]
+![Mano Robotica](image.jpeg)
 
 ## 🛠️ Cómo funciona
 1. **Captura de Movimiento:** Un script de Python procesa el video de la cámara.
